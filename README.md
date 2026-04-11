@@ -28,9 +28,9 @@ This pcap goes far beyond just Ethernet traffic. It covers **186 different link-
 | [`ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng`](pcaps/all_merged/ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng) | The mega merge - 2,773,127 packets across 115 known encap types in a single pcapng file |
 | [`pcaps/encap_types/`](pcaps/encap_types/) | Individual per-encap pcapng files for all 186 encap types (including 67 unknown DLTs and edge cases not in the mega merge) |
 
-## How to Download
+## How to Clone
 
-The pcap files in this repository are stored using **Git LFS (Large File Storage)** because they are too large for regular Git. Git LFS is a Git extension that replaces large files with lightweight pointers in the repository while storing the actual file contents on a separate server. Without it, cloning would only give you small pointer files instead of the real pcapngs.
+You can download pcaps manually, for example - [`ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng`](pcaps/all_merged/ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng). However, if you want to clone this project and download all pcaps, you'll need to use `git-lfs`. The pcap files in this repository are stored using **Git LFS (Large File Storage)** because they are too large for regular Git. Git LFS is a Git extension that replaces large files with lightweight pointers in the repository while storing the actual file contents on a separate server. Without it, cloning would only give you small pointer files instead of the real pcapngs.
 
 ```bash
 # 1. Install Git LFS (one-time setup)
@@ -285,75 +285,75 @@ The Holy Grail PCAP contains **186 encapsulation types** organized into individu
 <details>
 <summary>67 unknown DLT types with 390,191 total packets (click to expand)</summary>
 
-| DLT | Packets | Pcap |
-|-----|--------:|------|
-| DLT-005 | 10,701 | [pcapng](pcaps/encap_types/WTAP-000_DLT-005_UNKNOWN/) |
-| DLT-017 | 2,970 | [pcapng](pcaps/encap_types/WTAP-000_DLT-017_UNKNOWN/) |
-| DLT-022 | 6,274 | [pcapng](pcaps/encap_types/WTAP-000_DLT-022_UNKNOWN/) |
-| DLT-027 | 10,433 | [pcapng](pcaps/encap_types/WTAP-000_DLT-027_UNKNOWN/) |
-| DLT-031 | 10,375 | [pcapng](pcaps/encap_types/WTAP-000_DLT-031_UNKNOWN/) |
-| DLT-034 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-034_UNKNOWN/) |
-| DLT-035 | 12,642 | [pcapng](pcaps/encap_types/WTAP-000_DLT-035_UNKNOWN/) |
-| DLT-036 | 440 | [pcapng](pcaps/encap_types/WTAP-000_DLT-036_UNKNOWN/) |
-| DLT-040 | 7,239 | [pcapng](pcaps/encap_types/WTAP-000_DLT-040_UNKNOWN/) |
-| DLT-062 | 13,938 | [pcapng](pcaps/encap_types/WTAP-000_DLT-062_UNKNOWN/) |
-| DLT-064 | 9,737 | [pcapng](pcaps/encap_types/WTAP-000_DLT-064_UNKNOWN/) |
-| DLT-065 | 7,472 | [pcapng](pcaps/encap_types/WTAP-000_DLT-065_UNKNOWN/) |
-| DLT-067 | 11,049 | [pcapng](pcaps/encap_types/WTAP-000_DLT-067_UNKNOWN/) |
-| DLT-068 | 12,939 | [pcapng](pcaps/encap_types/WTAP-000_DLT-068_UNKNOWN/) |
-| DLT-070 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-070_UNKNOWN/) |
-| DLT-071 | 13,067 | [pcapng](pcaps/encap_types/WTAP-000_DLT-071_UNKNOWN/) |
-| DLT-072 | 8,868 | [pcapng](pcaps/encap_types/WTAP-000_DLT-072_UNKNOWN/) |
-| DLT-073 | 9,499 | [pcapng](pcaps/encap_types/WTAP-000_DLT-073_UNKNOWN/) |
-| DLT-074 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-074_UNKNOWN/) |
-| DLT-076 | 13,076 | [pcapng](pcaps/encap_types/WTAP-000_DLT-076_UNKNOWN/) |
-| DLT-077 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-077_UNKNOWN/) |
-| DLT-078 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-078_UNKNOWN/) |
-| DLT-079 | 7,326 | [pcapng](pcaps/encap_types/WTAP-000_DLT-079_UNKNOWN/) |
-| DLT-080 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-080_UNKNOWN/) |
-| DLT-081 | 11,144 | [pcapng](pcaps/encap_types/WTAP-000_DLT-081_UNKNOWN/) |
-| DLT-082 | 10,050 | [pcapng](pcaps/encap_types/WTAP-000_DLT-082_UNKNOWN/) |
-| DLT-083 | 12,857 | [pcapng](pcaps/encap_types/WTAP-000_DLT-083_UNKNOWN/) |
-| DLT-084 | 9,769 | [pcapng](pcaps/encap_types/WTAP-000_DLT-084_UNKNOWN/) |
-| DLT-085 | 9,767 | [pcapng](pcaps/encap_types/WTAP-000_DLT-085_UNKNOWN/) |
-| DLT-086 | 8,044 | [pcapng](pcaps/encap_types/WTAP-000_DLT-086_UNKNOWN/) |
-| DLT-087 | 10,525 | [pcapng](pcaps/encap_types/WTAP-000_DLT-087_UNKNOWN/) |
-| DLT-088 | 4,936 | [pcapng](pcaps/encap_types/WTAP-000_DLT-088_UNKNOWN/) |
-| DLT-089 | 12,044 | [pcapng](pcaps/encap_types/WTAP-000_DLT-089_UNKNOWN/) |
-| DLT-091 | 9,480 | [pcapng](pcaps/encap_types/WTAP-000_DLT-091_UNKNOWN/) |
-| DLT-092 | 129 | [pcapng](pcaps/encap_types/WTAP-000_DLT-092_UNKNOWN/) |
-| DLT-093 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-093_UNKNOWN/) |
-| DLT-094 | 2,220 | [pcapng](pcaps/encap_types/WTAP-000_DLT-094_UNKNOWN/) |
-| DLT-096 | 327 | [pcapng](pcaps/encap_types/WTAP-000_DLT-096_UNKNOWN/) |
-| DLT-102 | 3 | [pcapng](pcaps/encap_types/WTAP-000_DLT-102_UNKNOWN/) |
-| DLT-103 | 24 | [pcapng](pcaps/encap_types/WTAP-000_DLT-103_UNKNOWN/) |
-| DLT-110 | 329 | [pcapng](pcaps/encap_types/WTAP-000_DLT-110_UNKNOWN/) |
-| DLT-111 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-111_UNKNOWN/) |
-| DLT-116 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-116_UNKNOWN/) |
-| DLT-120 | 12,354 | [pcapng](pcaps/encap_types/WTAP-000_DLT-120_UNKNOWN/) |
-| DLT-124 | 4,803 | [pcapng](pcaps/encap_types/WTAP-000_DLT-124_UNKNOWN/) |
-| DLT-126 | 6,726 | [pcapng](pcaps/encap_types/WTAP-000_DLT-126_UNKNOWN/) |
-| DLT-132 | 267 | [pcapng](pcaps/encap_types/WTAP-000_DLT-132_UNKNOWN/) |
-| DLT-134 | 1,470 | [pcapng](pcaps/encap_types/WTAP-000_DLT-134_UNKNOWN/) |
-| DLT-145 | 9 | [pcapng](pcaps/encap_types/WTAP-000_DLT-145_UNKNOWN/) |
-| DLT-164 | 245 | [pcapng](pcaps/encap_types/WTAP-000_DLT-164_UNKNOWN/) |
-| DLT-166 | 238 | [pcapng](pcaps/encap_types/WTAP-000_DLT-166_UNKNOWN/) |
-| DLT-168 | 233 | [pcapng](pcaps/encap_types/WTAP-000_DLT-168_UNKNOWN/) |
-| DLT-175 | 554 | [pcapng](pcaps/encap_types/WTAP-000_DLT-175_UNKNOWN/) |
-| DLT-176 | 12,412 | [pcapng](pcaps/encap_types/WTAP-000_DLT-176_UNKNOWN/) |
-| DLT-182 | 2,577 | [pcapng](pcaps/encap_types/WTAP-000_DLT-182_UNKNOWN/) |
-| DLT-185 | 14 | [pcapng](pcaps/encap_types/WTAP-000_DLT-185_UNKNOWN/) |
-| DLT-191 | 13,357 | [pcapng](pcaps/encap_types/WTAP-000_DLT-191_UNKNOWN/) |
-| DLT-193 | 12,476 | [pcapng](pcaps/encap_types/WTAP-000_DLT-193_UNKNOWN/) |
-| DLT-194 | 11,096 | [pcapng](pcaps/encap_types/WTAP-000_DLT-194_UNKNOWN/) |
-| DLT-198 | 13,067 | [pcapng](pcaps/encap_types/WTAP-000_DLT-198_UNKNOWN/) |
-| DLT-205 | 12,330 | [pcapng](pcaps/encap_types/WTAP-000_DLT-205_UNKNOWN/) |
-| DLT-207 | 13,245 | [pcapng](pcaps/encap_types/WTAP-000_DLT-207_UNKNOWN/) |
-| DLT-223 | 47 | [pcapng](pcaps/encap_types/WTAP-000_DLT-223_UNKNOWN/) |
-| DLT-244 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-244_UNKNOWN/) |
-| DLT-262 | 253 | [pcapng](pcaps/encap_types/WTAP-000_DLT-262_UNKNOWN/) |
-| DLT-302 | 1,424 | [pcapng](pcaps/encap_types/WTAP-000_DLT-302_UNKNOWN/) |
-| DLT-303 | 305 | [pcapng](pcaps/encap_types/WTAP-000_DLT-303_UNKNOWN/) |
+| DLT | Name | Packets | Pcap |
+|-----|------|--------:|------|
+| DLT-005 | DLT_CHAOS | 10,701 | [pcapng](pcaps/encap_types/WTAP-000_DLT-005_UNKNOWN/) |
+| DLT-017 | Unassigned | 2,970 | [pcapng](pcaps/encap_types/WTAP-000_DLT-017_UNKNOWN/) |
+| DLT-022 | Unassigned | 6,274 | [pcapng](pcaps/encap_types/WTAP-000_DLT-022_UNKNOWN/) |
+| DLT-027 | Unassigned | 10,433 | [pcapng](pcaps/encap_types/WTAP-000_DLT-027_UNKNOWN/) |
+| DLT-031 | Unassigned | 10,375 | [pcapng](pcaps/encap_types/WTAP-000_DLT-031_UNKNOWN/) |
+| DLT-034 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-034_UNKNOWN/) |
+| DLT-035 | Unassigned | 12,642 | [pcapng](pcaps/encap_types/WTAP-000_DLT-035_UNKNOWN/) |
+| DLT-036 | Unassigned | 440 | [pcapng](pcaps/encap_types/WTAP-000_DLT-036_UNKNOWN/) |
+| DLT-040 | Unassigned | 7,239 | [pcapng](pcaps/encap_types/WTAP-000_DLT-040_UNKNOWN/) |
+| DLT-062 | Unassigned | 13,938 | [pcapng](pcaps/encap_types/WTAP-000_DLT-062_UNKNOWN/) |
+| DLT-064 | Unassigned | 9,737 | [pcapng](pcaps/encap_types/WTAP-000_DLT-064_UNKNOWN/) |
+| DLT-065 | Unassigned | 7,472 | [pcapng](pcaps/encap_types/WTAP-000_DLT-065_UNKNOWN/) |
+| DLT-067 | Unassigned | 11,049 | [pcapng](pcaps/encap_types/WTAP-000_DLT-067_UNKNOWN/) |
+| DLT-068 | Unassigned | 12,939 | [pcapng](pcaps/encap_types/WTAP-000_DLT-068_UNKNOWN/) |
+| DLT-070 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-070_UNKNOWN/) |
+| DLT-071 | Unassigned | 13,067 | [pcapng](pcaps/encap_types/WTAP-000_DLT-071_UNKNOWN/) |
+| DLT-072 | Unassigned | 8,868 | [pcapng](pcaps/encap_types/WTAP-000_DLT-072_UNKNOWN/) |
+| DLT-073 | Unassigned | 9,499 | [pcapng](pcaps/encap_types/WTAP-000_DLT-073_UNKNOWN/) |
+| DLT-074 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-074_UNKNOWN/) |
+| DLT-076 | Unassigned | 13,076 | [pcapng](pcaps/encap_types/WTAP-000_DLT-076_UNKNOWN/) |
+| DLT-077 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-077_UNKNOWN/) |
+| DLT-078 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-078_UNKNOWN/) |
+| DLT-079 | Unassigned | 7,326 | [pcapng](pcaps/encap_types/WTAP-000_DLT-079_UNKNOWN/) |
+| DLT-080 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-080_UNKNOWN/) |
+| DLT-081 | Unassigned | 11,144 | [pcapng](pcaps/encap_types/WTAP-000_DLT-081_UNKNOWN/) |
+| DLT-082 | Unassigned | 10,050 | [pcapng](pcaps/encap_types/WTAP-000_DLT-082_UNKNOWN/) |
+| DLT-083 | Unassigned | 12,857 | [pcapng](pcaps/encap_types/WTAP-000_DLT-083_UNKNOWN/) |
+| DLT-084 | Unassigned | 9,769 | [pcapng](pcaps/encap_types/WTAP-000_DLT-084_UNKNOWN/) |
+| DLT-085 | Unassigned | 9,767 | [pcapng](pcaps/encap_types/WTAP-000_DLT-085_UNKNOWN/) |
+| DLT-086 | Unassigned | 8,044 | [pcapng](pcaps/encap_types/WTAP-000_DLT-086_UNKNOWN/) |
+| DLT-087 | Unassigned | 10,525 | [pcapng](pcaps/encap_types/WTAP-000_DLT-087_UNKNOWN/) |
+| DLT-088 | Unassigned | 4,936 | [pcapng](pcaps/encap_types/WTAP-000_DLT-088_UNKNOWN/) |
+| DLT-089 | Unassigned | 12,044 | [pcapng](pcaps/encap_types/WTAP-000_DLT-089_UNKNOWN/) |
+| DLT-091 | Unassigned | 9,480 | [pcapng](pcaps/encap_types/WTAP-000_DLT-091_UNKNOWN/) |
+| DLT-092 | Unassigned | 129 | [pcapng](pcaps/encap_types/WTAP-000_DLT-092_UNKNOWN/) |
+| DLT-093 | Unassigned | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-093_UNKNOWN/) |
+| DLT-094 | Unassigned | 2,220 | [pcapng](pcaps/encap_types/WTAP-000_DLT-094_UNKNOWN/) |
+| DLT-096 | Unassigned | 327 | [pcapng](pcaps/encap_types/WTAP-000_DLT-096_UNKNOWN/) |
+| DLT-102 | DLT_SLIP_BSDOS | 3 | [pcapng](pcaps/encap_types/WTAP-000_DLT-102_UNKNOWN/) |
+| DLT-103 | DLT_PPP_BSDOS | 24 | [pcapng](pcaps/encap_types/WTAP-000_DLT-103_UNKNOWN/) |
+| DLT-110 | LINKTYPE_LANE8023 | 329 | [pcapng](pcaps/encap_types/WTAP-000_DLT-110_UNKNOWN/) |
+| DLT-111 | DLT_HIPPI | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-111_UNKNOWN/) |
+| DLT-116 | DLT_IPFILTER | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-116_UNKNOWN/) |
+| DLT-120 | DLT_AIRONET_HEADER | 12,354 | [pcapng](pcaps/encap_types/WTAP-000_DLT-120_UNKNOWN/) |
+| DLT-124 | DLT_RIO | 4,803 | [pcapng](pcaps/encap_types/WTAP-000_DLT-124_UNKNOWN/) |
+| DLT-126 | DLT_AURORA | 6,726 | [pcapng](pcaps/encap_types/WTAP-000_DLT-126_UNKNOWN/) |
+| DLT-132 | DLT_JUNIPER_ES | 267 | [pcapng](pcaps/encap_types/WTAP-000_DLT-132_UNKNOWN/) |
+| DLT-134 | DLT_JUNIPER_MFR | 1,470 | [pcapng](pcaps/encap_types/WTAP-000_DLT-134_UNKNOWN/) |
+| DLT-145 | DLT_IBM_SP | 9 | [pcapng](pcaps/encap_types/WTAP-000_DLT-145_UNKNOWN/) |
+| DLT-164 | DLT_JUNIPER_MONITOR | 245 | [pcapng](pcaps/encap_types/WTAP-000_DLT-164_UNKNOWN/) |
+| DLT-166 | DLT_PPP_PPPD | 238 | [pcapng](pcaps/encap_types/WTAP-000_DLT-166_UNKNOWN/) |
+| DLT-168 | DLT_JUNIPER_PPPOE_ATM | 233 | [pcapng](pcaps/encap_types/WTAP-000_DLT-168_UNKNOWN/) |
+| DLT-175 | DLT_ERF_ETH | 554 | [pcapng](pcaps/encap_types/WTAP-000_DLT-175_UNKNOWN/) |
+| DLT-176 | DLT_ERF_POS | 12,412 | [pcapng](pcaps/encap_types/WTAP-000_DLT-176_UNKNOWN/) |
+| DLT-182 | DLT_MFR | 2,577 | [pcapng](pcaps/encap_types/WTAP-000_DLT-182_UNKNOWN/) |
+| DLT-185 | DLT_A653_ICM | 14 | [pcapng](pcaps/encap_types/WTAP-000_DLT-185_UNKNOWN/) |
+| DLT-191 | DLT_IEEE802_15_4_LINUX | 13,357 | [pcapng](pcaps/encap_types/WTAP-000_DLT-191_UNKNOWN/) |
+| DLT-193 | DLT_IEEE802_16_MAC_CPS_RADIO | 12,476 | [pcapng](pcaps/encap_types/WTAP-000_DLT-193_UNKNOWN/) |
+| DLT-194 | DLT_JUNIPER_ISM | 11,096 | [pcapng](pcaps/encap_types/WTAP-000_DLT-194_UNKNOWN/) |
+| DLT-198 | DLT_RAIF1 | 13,067 | [pcapng](pcaps/encap_types/WTAP-000_DLT-198_UNKNOWN/) |
+| DLT-205 | DLT_C_HDLC_WITH_DIR | 12,330 | [pcapng](pcaps/encap_types/WTAP-000_DLT-205_UNKNOWN/) |
+| DLT-207 | DLT_LAPB_WITH_DIR | 13,245 | [pcapng](pcaps/encap_types/WTAP-000_DLT-207_UNKNOWN/) |
+| DLT-223 | DLT_WIHART | 47 | [pcapng](pcaps/encap_types/WTAP-000_DLT-223_UNKNOWN/) |
+| DLT-244 | DLT_NG40 | 2 | [pcapng](pcaps/encap_types/WTAP-000_DLT-244_UNKNOWN/) |
+| DLT-262 | DLT_ZWAVE_R3 | 253 | [pcapng](pcaps/encap_types/WTAP-000_DLT-262_UNKNOWN/) |
+| DLT-302 | DLT_EDK2_MM | 1,424 | [pcapng](pcaps/encap_types/WTAP-000_DLT-302_UNKNOWN/) |
+| DLT-303 | DLT_DEBUG_ONLY | 305 | [pcapng](pcaps/encap_types/WTAP-000_DLT-303_UNKNOWN/) |
 
 </details>
 
