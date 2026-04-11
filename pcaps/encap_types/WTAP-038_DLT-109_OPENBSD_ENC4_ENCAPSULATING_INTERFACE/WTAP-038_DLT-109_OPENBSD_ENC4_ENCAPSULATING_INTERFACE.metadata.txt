@@ -1,0 +1,8 @@
+WTAP Encap ID: 38
+WTAP Encap Name: OPENBSD_ENC4_ENCAPSULATING_INTERFACE
+DLT/Linktype: 109
+Packets: 38672
+File Size: 8053932 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: enc:ip:ipv6.hopopts:ipv6.hopopts:ipv6.hopopts
+Encap Verified: OK

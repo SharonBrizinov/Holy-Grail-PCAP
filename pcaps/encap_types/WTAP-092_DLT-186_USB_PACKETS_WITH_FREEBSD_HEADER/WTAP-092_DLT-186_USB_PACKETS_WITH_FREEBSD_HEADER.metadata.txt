@@ -1,0 +1,8 @@
+WTAP Encap ID: 92
+WTAP Encap Name: USB_PACKETS_WITH_FREEBSD_HEADER
+DLT/Linktype: 186
+Packets: 671
+File Size: 54268 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usb
+Encap Verified: OK

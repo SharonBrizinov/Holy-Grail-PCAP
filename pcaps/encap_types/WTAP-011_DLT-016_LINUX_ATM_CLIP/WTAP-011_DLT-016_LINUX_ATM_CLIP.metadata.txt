@@ -1,0 +1,8 @@
+WTAP Encap ID: 11
+WTAP Encap Name: LINUX_ATM_CLIP
+DLT/Linktype: 16
+Packets: 4
+File Size: 468 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: clip:ip
+Encap Verified: OK

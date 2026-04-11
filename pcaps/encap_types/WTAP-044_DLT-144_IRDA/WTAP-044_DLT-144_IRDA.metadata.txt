@@ -1,0 +1,8 @@
+WTAP Encap ID: 44
+WTAP Encap Name: IRDA
+DLT/Linktype: 144
+Packets: 4
+File Size: 508 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

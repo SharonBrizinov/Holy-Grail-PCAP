@@ -1,0 +1,8 @@
+WTAP Encap ID: 37
+WTAP Encap Name: TAZMEN_SNIFFER_PROTOCOL
+DLT/Linktype: 128
+Packets: 39668
+File Size: 3618212 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: tzsp:ppp:mp:mpls:pwethcw:eth:llc:data
+Encap Verified: OK

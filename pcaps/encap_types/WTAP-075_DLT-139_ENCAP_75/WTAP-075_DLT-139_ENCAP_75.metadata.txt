@@ -1,0 +1,8 @@
+WTAP Encap ID: 75
+WTAP Encap Name: ENCAP_75
+DLT/Linktype: 139
+Packets: 873
+File Size: 856236 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: mtp2:mtp3:mtp3mg
+Encap Verified: OK

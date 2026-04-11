@@ -1,0 +1,8 @@
+WTAP Encap ID: 41
+WTAP Encap Name: BLUETOOTH_H4
+DLT/Linktype: 187
+Packets: 11984
+File Size: 2665624 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: bluetooth:hci_h4:bthci_cmd
+Encap Verified: OK

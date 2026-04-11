@@ -1,0 +1,8 @@
+WTAP Encap ID: 0
+WTAP Encap Name: UNKNOWN
+DLT/Linktype: 194
+Packets: 11096
+File Size: 1273520 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

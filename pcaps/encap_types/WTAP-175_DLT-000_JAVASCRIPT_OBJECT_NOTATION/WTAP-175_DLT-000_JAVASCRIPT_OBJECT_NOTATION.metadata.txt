@@ -1,0 +1,8 @@
+WTAP Encap ID: 175
+WTAP Encap Name: JAVASCRIPT_OBJECT_NOTATION
+DLT/Linktype: 0
+Packets: 1
+File Size: 10244 bytes
+Capture Duration: 0s
+First Packet Protocols: json:data-text-lines
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 33
+WTAP Encap Name: DATA_OVER_CABLE_SERVICE_INTERFACE_SPECIFICATION
+DLT/Linktype: 143
+Packets: 56709
+File Size: 17614316 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: docsis:docsis_mgmt
+Encap Verified: OK

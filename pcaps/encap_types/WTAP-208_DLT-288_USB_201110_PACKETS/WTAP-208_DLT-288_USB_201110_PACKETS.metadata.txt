@@ -1,0 +1,8 @@
+WTAP Encap ID: 208
+WTAP Encap Name: USB_201110_PACKETS
+DLT/Linktype: 288
+Packets: 216
+File Size: 10356 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usbll
+Encap Verified: OK

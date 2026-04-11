@@ -1,0 +1,8 @@
+WTAP Encap ID: 67
+WTAP Encap Name: JUNIPER_ATM1
+DLT/Linktype: 137
+Packets: 37558
+File Size: 17377724 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:ipv6:etherip:eth:ethertype:lwapp:wlan:data
+Encap Verified: OK

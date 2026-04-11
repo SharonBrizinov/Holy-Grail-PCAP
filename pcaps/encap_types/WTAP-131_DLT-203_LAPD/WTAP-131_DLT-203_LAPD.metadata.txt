@@ -1,0 +1,8 @@
+WTAP Encap ID: 131
+WTAP Encap Name: LAPD
+DLT/Linktype: 203
+Packets: 2042
+File Size: 135132 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: lapd:q931
+Encap Verified: OK

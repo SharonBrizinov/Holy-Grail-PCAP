@@ -1,0 +1,8 @@
+WTAP Encap ID: 147
+WTAP Encap Name: AX25_WITH_KISS_HEADER
+DLT/Linktype: 202
+Packets: 1442
+File Size: 429052 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ax25_kiss
+Encap Verified: OK

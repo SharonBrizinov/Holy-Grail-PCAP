@@ -1,0 +1,8 @@
+WTAP Encap ID: 10
+WTAP Encap Name: RFC_1483_ATM
+DLT/Linktype: 100
+Packets: 39642
+File Size: 2971504 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: llc:ip:tcp
+Encap Verified: OK

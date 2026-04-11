@@ -1,0 +1,8 @@
+WTAP Encap ID: 86
+WTAP Encap Name: JUNIPER_C-HDLC
+DLT/Linktype: 181
+Packets: 39485
+File Size: 3724660 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:chdlc:data
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 197
+WTAP Encap Name: JUNIPER_SECURE_TUNNEL_INFORMATION
+DLT/Linktype: 200
+Packets: 120
+File Size: 19536 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper
+Encap Verified: OK

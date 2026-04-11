@@ -1,0 +1,8 @@
+WTAP Encap ID: 124
+WTAP Encap Name: SOLARIS_IPNET
+DLT/Linktype: 226
+Packets: 282
+File Size: 30952 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ipnet
+Encap Verified: OK

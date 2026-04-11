@@ -1,0 +1,8 @@
+WTAP Encap ID: 4
+WTAP Encap Name: PPP
+DLT/Linktype: 50
+Packets: 43936
+File Size: 7473788 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ppp:ip:mipv6
+Encap Verified: OK

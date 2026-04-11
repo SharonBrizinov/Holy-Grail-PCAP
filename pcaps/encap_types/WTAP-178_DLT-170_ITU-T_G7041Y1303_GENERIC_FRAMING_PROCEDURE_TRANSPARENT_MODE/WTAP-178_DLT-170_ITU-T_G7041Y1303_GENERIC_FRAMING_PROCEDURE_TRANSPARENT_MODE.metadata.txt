@@ -1,0 +1,8 @@
+WTAP Encap ID: 178
+WTAP Encap Name: ITU-T_G7041Y1303_GENERIC_FRAMING_PROCEDURE_TRANSPARENT_MODE
+DLT/Linktype: 170
+Packets: 478
+File Size: 57128 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: gfp
+Encap Verified: OK

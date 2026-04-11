@@ -1,0 +1,8 @@
+WTAP Encap ID: 223
+WTAP Encap Name: MDB_MULTI-DROP_BUS
+DLT/Linktype: 300
+Packets: 36788
+File Size: 7622168 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: 
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 103
+WTAP Encap Name: INTELLIGENT_PLATFORM_MANAGEMENT_BUS_WITH_KONTRON_PSEUDO-HEADER
+DLT/Linktype: 199
+Packets: 37379
+File Size: 6452400 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: i2c:data
+Encap Verified: OK

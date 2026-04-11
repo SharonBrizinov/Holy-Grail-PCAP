@@ -1,0 +1,8 @@
+WTAP Encap ID: 61
+WTAP Encap Name: SYMANTEC_ENTERPRISE_FIREWALL
+DLT/Linktype: 99
+Packets: 40678
+File Size: 8887612 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: symantec:ip:ipv6:ipv6.fraghdr:data
+Encap Verified: OK

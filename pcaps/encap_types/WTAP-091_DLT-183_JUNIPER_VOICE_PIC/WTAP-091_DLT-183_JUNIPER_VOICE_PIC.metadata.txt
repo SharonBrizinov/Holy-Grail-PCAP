@@ -1,0 +1,8 @@
+WTAP Encap ID: 91
+WTAP Encap Name: JUNIPER_VOICE_PIC
+DLT/Linktype: 183
+Packets: 488
+File Size: 36304 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:ip
+Encap Verified: OK

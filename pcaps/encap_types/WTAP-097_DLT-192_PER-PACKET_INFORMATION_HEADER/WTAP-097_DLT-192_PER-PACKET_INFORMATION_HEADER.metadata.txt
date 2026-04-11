@@ -1,0 +1,8 @@
+WTAP Encap ID: 97
+WTAP Encap Name: PER-PACKET_INFORMATION_HEADER
+DLT/Linktype: 192
+Packets: 78078
+File Size: 28824204 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ppi:wlan_radio:wlan
+Encap Verified: OK

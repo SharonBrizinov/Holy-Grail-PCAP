@@ -1,0 +1,8 @@
+WTAP Encap ID: 127
+WTAP Encap Name: IEEE_802154_WIRELESS_PAN_WITH_FCS_NOT_PRESENT
+DLT/Linktype: 230
+Packets: 41895
+File Size: 14802984 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: wpan:6lowpan:ipv6:udp:cldap
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 2
+WTAP Encap Name: TOKEN_RING
+DLT/Linktype: 6
+Packets: 33332
+File Size: 30017124 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: tr:llc:ip:ipv6
+Encap Verified: OK

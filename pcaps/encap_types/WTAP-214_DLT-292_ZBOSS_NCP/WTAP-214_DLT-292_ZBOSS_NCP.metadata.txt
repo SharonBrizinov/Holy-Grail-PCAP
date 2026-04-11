@@ -1,0 +1,8 @@
+WTAP Encap ID: 214
+WTAP Encap Name: ZBOSS_NCP
+DLT/Linktype: 292
+Packets: 1521
+File Size: 154280 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: 
+Encap Verified: OK

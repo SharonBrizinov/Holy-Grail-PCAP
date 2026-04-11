@@ -1,0 +1,8 @@
+WTAP Encap ID: 20
+WTAP Encap Name: IEEE_80211_WIRELESS_LAN
+DLT/Linktype: 105
+Packets: 32868
+File Size: 31711232 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: wlan:llc:x25:data
+Encap Verified: OK

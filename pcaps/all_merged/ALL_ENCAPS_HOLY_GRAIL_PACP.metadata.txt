@@ -1,0 +1,16 @@
+ALL ENCAPS MEGA MERGE
+Generated: 2026-04-10 17:48:23 UTC
+Method: mergecap -I all (multi-IDB single section pcapng)
+
+Mega Merge Packets (capinfos): 2,773,127
+Mega Merge Interfaces: 290
+Mega Merge Encap Types: 115 (known, included in mega merge)
+File Size: 863,978,444 bytes (824.0 MB)
+File Encapsulation: Per packet (multiple IDBs with different linktypes)
+
+NOT in mega merge (cannot be merged by mergecap):
+  Unknown encap types (WTAP-000): 67 dirs, 390191 packets
+  Problem files: WTAP-075 (corrupt), WTAP-099 (corrupt), WTAP-100 (corrupt), WTAP-175 (JSON, not capture)
+  These are available as individual per-encap merged pcapngs.
+
+Total across ALL encap types: 3,163,318 packets in 186 encap dirs

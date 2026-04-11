@@ -1,0 +1,8 @@
+WTAP Encap ID: 21
+WTAP Encap Name: IEEE_80211_PLUS_PRISM_II_MONITOR_MODE_RADIO_HEADER
+DLT/Linktype: 119
+Packets: 64810
+File Size: 18255048 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: prism:wlan_radio:wlan:llc:ip:udp:nbns
+Encap Verified: OK

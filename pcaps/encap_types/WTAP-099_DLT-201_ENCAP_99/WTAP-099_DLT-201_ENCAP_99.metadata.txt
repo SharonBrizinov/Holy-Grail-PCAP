@@ -1,0 +1,8 @@
+WTAP Encap ID: 99
+WTAP Encap Name: ENCAP_99
+DLT/Linktype: 201
+Packets: 90
+File Size: 62988 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: bluetooth:hci_h4:data
+Encap Verified: OK

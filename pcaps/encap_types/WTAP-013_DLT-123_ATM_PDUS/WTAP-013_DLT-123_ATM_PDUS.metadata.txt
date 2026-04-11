@@ -1,0 +1,8 @@
+WTAP Encap ID: 13
+WTAP Encap Name: ATM_PDUS
+DLT/Linktype: 123
+Packets: 1066
+File Size: 363812 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: atm:eth:ethertype:data
+Encap Verified: OK

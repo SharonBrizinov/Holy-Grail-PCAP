@@ -1,0 +1,8 @@
+WTAP Encap ID: 154
+WTAP Encap Name: BLUETOOTH_LOW_ENERGY_LINK_LAYER
+DLT/Linktype: 251
+Packets: 14025
+File Size: 1598164 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: bluetooth:btle:btl2cap:6lowpan:ipv6:mpls:pwethnocw:eth:ethertype:data
+Encap Verified: OK

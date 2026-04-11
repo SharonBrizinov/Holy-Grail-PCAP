@@ -1,0 +1,8 @@
+WTAP Encap ID: 155
+WTAP Encap Name: WIRESHARK_UPPER_PDU_EXPORT
+DLT/Linktype: 252
+Packets: 32390
+File Size: 35037280 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: exported_pdu:udp:lwapp:wlan
+Encap Verified: OK

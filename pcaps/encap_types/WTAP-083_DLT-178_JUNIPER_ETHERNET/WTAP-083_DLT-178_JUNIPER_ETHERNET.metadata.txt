@@ -1,0 +1,8 @@
+WTAP Encap ID: 83
+WTAP Encap Name: JUNIPER_ETHERNET
+DLT/Linktype: 178
+Packets: 45920
+File Size: 7666964 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:eth:llc:data
+Encap Verified: OK

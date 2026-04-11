@@ -1,0 +1,5 @@
+385 juniper:ip
+     54 juniper
+     30 juniper:ip:data
+     18 juniper:ip:ipv6
+      1 juniper:ip:ipv6:data

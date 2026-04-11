@@ -1,0 +1,8 @@
+WTAP Encap ID: 186
+WTAP Encap Name: NRF_SNIFFER_FOR_BLUETOOTH_LE
+DLT/Linktype: 272
+Packets: 653
+File Size: 153248 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: nordic_ble
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 26
+WTAP Encap Name: FRAME_RELAY
+DLT/Linktype: 107
+Packets: 44972
+File Size: 13805076 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: fr:ip:udplite:gtp
+Encap Verified: OK

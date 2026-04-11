@@ -1,0 +1,8 @@
+WTAP Encap ID: 221
+WTAP Encap Name: FIRA_UWB_CONTROLLER_INTERFACE_UCI_PROTOCOL
+DLT/Linktype: 299
+Packets: 1560
+File Size: 220060 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: uci
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 130
+WTAP Encap Name: RAW_IPV6
+DLT/Linktype: 229
+Packets: 36639
+File Size: 4310012 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: raw:ipv6:osi:isis:isis.csnp
+Encap Verified: OK

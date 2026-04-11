@@ -1,0 +1,8 @@
+WTAP Encap ID: 211
+WTAP Encap Name: Z-WAVE_SERIAL_API_PACKETS
+DLT/Linktype: 287
+Packets: 4
+File Size: 512 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

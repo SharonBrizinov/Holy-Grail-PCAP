@@ -1,0 +1,8 @@
+WTAP Encap ID: 66
+WTAP Encap Name: GPRS_LLC
+DLT/Linktype: 169
+Packets: 26450
+File Size: 1979908 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: llcgprs:gsm_a.dtap:rrlp
+Encap Verified: OK

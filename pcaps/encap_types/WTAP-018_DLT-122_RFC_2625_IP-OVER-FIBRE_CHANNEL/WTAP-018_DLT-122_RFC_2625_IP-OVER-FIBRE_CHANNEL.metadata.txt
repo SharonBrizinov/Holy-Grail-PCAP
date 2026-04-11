@@ -1,0 +1,8 @@
+WTAP Encap ID: 18
+WTAP Encap Name: RFC_2625_IP-OVER-FIBRE_CHANNEL
+DLT/Linktype: 122
+Packets: 63162
+File Size: 9028872 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ipfc:llc:3comxns:vlan:ethertype:vlan:ethertype:data
+Encap Verified: OK

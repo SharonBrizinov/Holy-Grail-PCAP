@@ -1,0 +1,8 @@
+WTAP Encap ID: 30
+WTAP Encap Name: LOCALTALK
+DLT/Linktype: 114
+Packets: 3310
+File Size: 545488 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: llap:ddp:atp:asp:afp
+Encap Verified: OK

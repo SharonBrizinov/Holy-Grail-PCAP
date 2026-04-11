@@ -1,0 +1,8 @@
+WTAP Encap ID: 28
+WTAP Encap Name: CISCO_HDLC
+DLT/Linktype: 112
+Packets: 4
+File Size: 468 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: chdlc
+Encap Verified: OK

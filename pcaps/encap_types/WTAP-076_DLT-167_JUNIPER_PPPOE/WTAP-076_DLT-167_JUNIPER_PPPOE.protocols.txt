@@ -1,0 +1,5 @@
+239 juniper:eth:ethertype:data
+    181 juniper:eth
+     59 juniper
+      9 juniper:eth:llc:data
+      2 juniper:eth:llc

@@ -1,0 +1,3 @@
+646 nordic_ble
+      6 nordic_ble:btle
+      1 nordic_ble:btle:btcommon

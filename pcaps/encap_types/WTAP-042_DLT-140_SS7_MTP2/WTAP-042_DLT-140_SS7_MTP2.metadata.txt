@@ -1,0 +1,8 @@
+WTAP Encap ID: 42
+WTAP Encap Name: SS7_MTP2
+DLT/Linktype: 140
+Packets: 18977
+File Size: 3587308 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: mtp2:mtp3:sccp:bssap:gsm_a.dtap:rrc
+Encap Verified: OK

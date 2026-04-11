@@ -1,0 +1,8 @@
+WTAP Encap ID: 104
+WTAP Encap Name: IEEE_802154_WIRELESS_PAN
+DLT/Linktype: 195
+Packets: 38812
+File Size: 26385256 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: wpan
+Encap Verified: OK

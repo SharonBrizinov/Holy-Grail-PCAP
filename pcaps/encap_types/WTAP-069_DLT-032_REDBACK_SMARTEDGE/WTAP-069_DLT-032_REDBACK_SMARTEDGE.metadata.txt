@@ -1,0 +1,8 @@
+WTAP Encap ID: 69
+WTAP Encap Name: REDBACK_SMARTEDGE
+DLT/Linktype: 32
+Packets: 41191
+File Size: 5968000 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: redback:ip:data
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 222
+WTAP Encap Name: SILABS_DEBUG_CHANNEL
+DLT/Linktype: 298
+Packets: 1299
+File Size: 204224 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: silabs-dch
+Encap Verified: OK

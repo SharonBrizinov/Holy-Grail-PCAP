@@ -1,0 +1,8 @@
+WTAP Encap ID: 215
+WTAP Encap Name: LOW-SPEED_USB_201110_PACKETS
+DLT/Linktype: 293
+Packets: 229
+File Size: 10352 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usbll
+Encap Verified: OK

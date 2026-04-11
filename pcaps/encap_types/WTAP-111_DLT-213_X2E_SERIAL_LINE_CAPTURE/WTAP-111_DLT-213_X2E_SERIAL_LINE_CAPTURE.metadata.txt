@@ -1,0 +1,8 @@
+WTAP Encap ID: 111
+WTAP Encap Name: X2E_SERIAL_LINE_CAPTURE
+DLT/Linktype: 213
+Packets: 4
+File Size: 528 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

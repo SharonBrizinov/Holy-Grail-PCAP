@@ -1,0 +1,8 @@
+WTAP Encap ID: 138
+WTAP Encap Name: ISOIEC_13818-1_MPEG2-TS
+DLT/Linktype: 243
+Packets: 8073
+File Size: 1862852 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: mp2t
+Encap Verified: OK

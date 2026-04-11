@@ -1,0 +1,8 @@
+WTAP Encap ID: 219
+WTAP Encap Name: AUERSWALD_LOG
+DLT/Linktype: 296
+Packets: 4
+File Size: 512 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

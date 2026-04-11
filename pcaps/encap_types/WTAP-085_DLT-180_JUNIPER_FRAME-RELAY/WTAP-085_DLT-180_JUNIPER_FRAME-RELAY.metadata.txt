@@ -1,0 +1,8 @@
+WTAP Encap ID: 85
+WTAP Encap Name: JUNIPER_FRAME-RELAY
+DLT/Linktype: 180
+Packets: 31134
+File Size: 9705184 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:fr:data
+Encap Verified: OK

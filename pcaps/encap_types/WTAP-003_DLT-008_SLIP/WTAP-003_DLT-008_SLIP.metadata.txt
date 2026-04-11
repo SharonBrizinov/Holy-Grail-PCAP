@@ -1,0 +1,8 @@
+WTAP Encap ID: 3
+WTAP Encap Name: SLIP
+DLT/Linktype: 8
+Packets: 40430
+File Size: 3607852 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

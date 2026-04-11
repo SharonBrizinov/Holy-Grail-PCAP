@@ -1,0 +1,8 @@
+WTAP Encap ID: 15
+WTAP Encap Name: NULLLOOPBACK
+DLT/Linktype: 0
+Packets: 40116
+File Size: 58325988 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: null:ip:udp:peekremote:wlan_radio:wlan
+Encap Verified: OK

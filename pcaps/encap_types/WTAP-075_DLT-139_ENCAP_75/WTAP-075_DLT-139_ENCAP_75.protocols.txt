@@ -1,0 +1,10 @@
+464 mtp2:mtp3:mtp3mg
+    139 mtp2
+    137 mtp2:mtp3:data
+     44 mtp2:mtp3:isup
+     43 mtp2:mtp3:sccp
+     32 mtp2:mtp3:h248
+      6 mtp2:mtp3:bicc
+      5 mtp2:mtp3
+      2 mtp2:mtp3:alcap
+      1 mtp2:mtp3:sccp:data

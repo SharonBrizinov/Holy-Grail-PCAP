@@ -1,0 +1,8 @@
+WTAP Encap ID: 149
+WTAP Encap Name: SCTP
+DLT/Linktype: 248
+Packets: 32576
+File Size: 4135412 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: sctp:data
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 19
+WTAP Encap Name: PPP_WITH_DIRECTIONAL_INFO
+DLT/Linktype: 204
+Packets: 74919
+File Size: 30261192 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: ppp:data
+Encap Verified: OK

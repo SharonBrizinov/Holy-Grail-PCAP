@@ -1,0 +1,8 @@
+WTAP Encap ID: 23
+WTAP Encap Name: IEEE_80211_PLUS_RADIOTAP_RADIO_HEADER
+DLT/Linktype: 127
+Packets: 31878
+File Size: 26263884 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: radiotap:wlan_radio:wlan:llc:ip:tcp
+Encap Verified: OK

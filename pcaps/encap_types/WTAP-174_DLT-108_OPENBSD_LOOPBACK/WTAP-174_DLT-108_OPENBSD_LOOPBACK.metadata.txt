@@ -1,0 +1,8 @@
+WTAP Encap ID: 174
+WTAP Encap Name: OPENBSD_LOOPBACK
+DLT/Linktype: 108
+Packets: 41093
+File Size: 4901112 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: null:ip:tcp:x11
+Encap Verified: OK

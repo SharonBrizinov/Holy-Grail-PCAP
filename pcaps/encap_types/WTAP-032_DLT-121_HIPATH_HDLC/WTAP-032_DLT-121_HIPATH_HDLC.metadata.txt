@@ -1,0 +1,8 @@
+WTAP Encap ID: 32
+WTAP Encap Name: HIPATH_HDLC
+DLT/Linktype: 121
+Packets: 28783
+File Size: 4534012 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

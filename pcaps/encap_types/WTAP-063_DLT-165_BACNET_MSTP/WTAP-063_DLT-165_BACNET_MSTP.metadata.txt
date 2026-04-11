@@ -1,0 +1,8 @@
+WTAP Encap ID: 63
+WTAP Encap Name: BACNET_MSTP
+DLT/Linktype: 165
+Packets: 11921
+File Size: 1038656 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: mstp:bacnet:bacapp
+Encap Verified: OK

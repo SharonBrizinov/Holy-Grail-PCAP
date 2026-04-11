@@ -1,0 +1,8 @@
+WTAP Encap ID: 179
+WTAP Encap Name: ITU-T_G7041Y1303_GENERIC_FRAMING_PROCEDURE_FRAME-MAPPED_MODE
+DLT/Linktype: 171
+Packets: 33564
+File Size: 17113108 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: gfp:data
+Encap Verified: OK

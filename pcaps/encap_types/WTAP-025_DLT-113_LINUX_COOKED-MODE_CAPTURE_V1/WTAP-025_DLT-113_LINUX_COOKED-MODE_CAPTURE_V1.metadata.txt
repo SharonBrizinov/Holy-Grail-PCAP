@@ -1,0 +1,8 @@
+WTAP Encap ID: 25
+WTAP Encap Name: LINUX_COOKED-MODE_CAPTURE_V1
+DLT/Linktype: 113
+Packets: 87920
+File Size: 46009136 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: sll:ethertype:ip:udp:sip
+Encap Verified: OK

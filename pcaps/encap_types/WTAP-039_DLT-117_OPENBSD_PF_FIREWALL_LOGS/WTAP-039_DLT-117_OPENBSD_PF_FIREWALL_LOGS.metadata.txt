@@ -1,0 +1,8 @@
+WTAP Encap ID: 39
+WTAP Encap Name: OPENBSD_PF_FIREWALL_LOGS
+DLT/Linktype: 117
+Packets: 39856
+File Size: 8867376 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: pflog:ip:ipv6:udplite:h225:data
+Encap Verified: OK

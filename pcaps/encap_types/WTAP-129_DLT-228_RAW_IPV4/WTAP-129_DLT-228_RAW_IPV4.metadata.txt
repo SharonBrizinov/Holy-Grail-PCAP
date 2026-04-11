@@ -1,0 +1,8 @@
+WTAP Encap ID: 129
+WTAP Encap Name: RAW_IPV4
+DLT/Linktype: 228
+Packets: 39483
+File Size: 3888132 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: raw:ip:udp:dns
+Encap Verified: OK

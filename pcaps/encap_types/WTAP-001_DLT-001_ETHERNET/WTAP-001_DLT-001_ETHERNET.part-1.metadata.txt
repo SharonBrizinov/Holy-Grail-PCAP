@@ -1,0 +1,8 @@
+WTAP Encap ID: 1
+WTAP Encap Name: ETHERNET
+DLT/Linktype: 1
+Packets: 220243
+File Size: 42649740 bytes
+Capture Duration: 17s
+First Packet Protocols: eth:llc:bacnet:bacapp
+Encap Verified: OK

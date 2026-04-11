@@ -1,0 +1,8 @@
+WTAP Encap ID: 93
+WTAP Encap Name: IEEE_80216_MAC_COMMON_PART_SUBLAYER
+DLT/Linktype: 188
+Packets: 4
+File Size: 560 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

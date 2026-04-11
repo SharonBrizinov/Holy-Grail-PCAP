@@ -1,0 +1,8 @@
+WTAP Encap ID: 43
+WTAP Encap Name: SS7_MTP3
+DLT/Linktype: 141
+Packets: 18877
+File Size: 3763204 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: mtp3:sccp:tcap:gsm_map
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 158
+WTAP Encap Name: LINUX_NETLINK
+DLT/Linktype: 253
+Packets: 27632
+File Size: 20365628 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: netlink:netlink-netfilter:ip:tcp:http:http2
+Encap Verified: OK

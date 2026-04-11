@@ -1,0 +1,8 @@
+WTAP Encap ID: 55
+WTAP Encap Name: USER_10
+DLT/Linktype: 157
+Packets: 115
+File Size: 7236 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: user_dlt:data
+Encap Verified: OK

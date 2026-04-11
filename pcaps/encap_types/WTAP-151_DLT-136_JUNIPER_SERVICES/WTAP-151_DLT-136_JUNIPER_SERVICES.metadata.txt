@@ -1,0 +1,8 @@
+WTAP Encap ID: 151
+WTAP Encap Name: JUNIPER_SERVICES
+DLT/Linktype: 136
+Packets: 76
+File Size: 3412 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 101
+WTAP Encap Name: SS7_SCCP
+DLT/Linktype: 142
+Packets: 3066
+File Size: 246116 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: sccp
+Encap Verified: OK

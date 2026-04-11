@@ -1,0 +1,8 @@
+WTAP Encap ID: 141
+WTAP Encap Name: NFLOG
+DLT/Linktype: 239
+Packets: 20040
+File Size: 3092776 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: 
+Encap Verified: OK

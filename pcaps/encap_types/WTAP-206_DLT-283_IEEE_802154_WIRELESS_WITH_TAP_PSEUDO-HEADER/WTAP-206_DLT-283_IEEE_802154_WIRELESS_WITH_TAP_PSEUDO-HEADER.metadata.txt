@@ -1,0 +1,8 @@
+WTAP Encap ID: 206
+WTAP Encap Name: IEEE_802154_WIRELESS_WITH_TAP_PSEUDO-HEADER
+DLT/Linktype: 283
+Packets: 36049
+File Size: 4830932 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: wpan-tap:6lowpan:ipv6:mpls:ip
+Encap Verified: OK

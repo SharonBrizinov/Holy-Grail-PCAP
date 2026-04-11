@@ -1,0 +1,8 @@
+WTAP Encap ID: 217
+WTAP Encap Name: HIGH-SPEED_USB_20_PACKETS
+DLT/Linktype: 295
+Packets: 253
+File Size: 11188 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usbll
+Encap Verified: OK

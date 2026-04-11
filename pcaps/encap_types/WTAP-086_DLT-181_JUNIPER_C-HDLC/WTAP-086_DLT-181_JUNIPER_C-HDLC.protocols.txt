@@ -1,0 +1,8 @@
+39198 juniper:chdlc:data
+    161 juniper:chdlc:ip
+     67 juniper:chdlc:osi:data
+     20 juniper:chdlc:idp:data
+     17 juniper
+     12 juniper:chdlc:cdp
+      9 juniper:chdlc
+      1 juniper:chdlc:osi:clnp:data

@@ -1,0 +1,8 @@
+WTAP Encap ID: 98
+WTAP Encap Name: ENCAP_98
+DLT/Linktype: 197
+Packets: 1
+File Size: 164 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: erf:sdh
+Encap Verified: OK

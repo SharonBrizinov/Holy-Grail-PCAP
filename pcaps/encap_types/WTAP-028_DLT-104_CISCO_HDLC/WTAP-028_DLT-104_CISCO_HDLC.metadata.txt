@@ -1,0 +1,8 @@
+WTAP Encap ID: 28
+WTAP Encap Name: CISCO_HDLC
+DLT/Linktype: 104
+Packets: 37460
+File Size: 3534424 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: chdlc:ip:udplite:proxy:data
+Encap Verified: OK

@@ -1,0 +1,212 @@
+ENCAP ORGANIZER REPORT — Pipeline v4
+Generated: 2026-04-10
+Mega merge method: mergecap -I all (multi-IDB single section)
+
+Source files: 892
+Classified: 881 (11 failed)
+Encap types: 186
+Total packets: 3,163,318
+
+MEGA MERGE (ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng):
+  Encap types included: 115 (known)
+  Packets: 2,773,127
+  Interfaces: 290
+  Size: 824.0 MB
+  Format: pcapng with Per-packet encapsulation
+  Verification: capinfos count matches sum of per-encap counts
+
+NOT IN MEGA MERGE:
+  67 unknown encap types (WTAP-000, various DLTs)
+  4 problem files (WTAP-075 corrupt, WTAP-099 corrupt, WTAP-100 corrupt, WTAP-175 JSON)
+  Total: 390,191 packets — available as individual per-encap pcapngs
+
+Encap      Name                                            Src      Packets    EncapOK
+==========================================================================================
+WTAP-000   UNKNOWN                                           2       10,701         OK
+WTAP-000   UNKNOWN                                           1        2,970         OK
+WTAP-000   UNKNOWN                                           2        6,274         OK
+WTAP-000   UNKNOWN                                           2       10,433         OK
+WTAP-000   UNKNOWN                                           2       10,375         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2       12,642         OK
+WTAP-000   UNKNOWN                                           2          440         OK
+WTAP-000   UNKNOWN                                           2        7,239         OK
+WTAP-000   UNKNOWN                                           2       13,938         OK
+WTAP-000   UNKNOWN                                           2        9,737         OK
+WTAP-000   UNKNOWN                                           2        7,472         OK
+WTAP-000   UNKNOWN                                           2       11,049         OK
+WTAP-000   UNKNOWN                                           2       12,939         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2       13,067         OK
+WTAP-000   UNKNOWN                                           2        8,868         OK
+WTAP-000   UNKNOWN                                           2        9,499         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2       13,076         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           1        7,326         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2       11,144         OK
+WTAP-000   UNKNOWN                                           2       10,050         OK
+WTAP-000   UNKNOWN                                           2       12,857         OK
+WTAP-000   UNKNOWN                                           2        9,769         OK
+WTAP-000   UNKNOWN                                           2        9,767         OK
+WTAP-000   UNKNOWN                                           2        8,044         OK
+WTAP-000   UNKNOWN                                           2       10,525         OK
+WTAP-000   UNKNOWN                                           1        4,936         OK
+WTAP-000   UNKNOWN                                           2       12,044         OK
+WTAP-000   UNKNOWN                                           2        9,480         OK
+WTAP-000   UNKNOWN                                           2          129         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2        2,220         OK
+WTAP-000   UNKNOWN                                           3          327         OK
+WTAP-000   UNKNOWN                                           2            3         OK
+WTAP-000   UNKNOWN                                           2           24         OK
+WTAP-000   UNKNOWN                                           2          329         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           2       12,354         OK
+WTAP-000   UNKNOWN                                           2        4,803         OK
+WTAP-000   UNKNOWN                                           2        6,726         OK
+WTAP-000   UNKNOWN                                           2          267         OK
+WTAP-000   UNKNOWN                                           2        1,470         OK
+WTAP-000   UNKNOWN                                           2            9         OK
+WTAP-000   UNKNOWN                                           2          245         OK
+WTAP-000   UNKNOWN                                           2          238         OK
+WTAP-000   UNKNOWN                                           2          233         OK
+WTAP-000   UNKNOWN                                           2          554         OK
+WTAP-000   UNKNOWN                                           2       12,412         OK
+WTAP-000   UNKNOWN                                           1        2,577         OK
+WTAP-000   UNKNOWN                                           2           14         OK
+WTAP-000   UNKNOWN                                           1       13,357         OK
+WTAP-000   UNKNOWN                                           2       12,476         OK
+WTAP-000   UNKNOWN                                           2       11,096         OK
+WTAP-000   UNKNOWN                                           2       13,067         OK
+WTAP-000   UNKNOWN                                           2       12,330         OK
+WTAP-000   UNKNOWN                                           2       13,245         OK
+WTAP-000   UNKNOWN                                           2           47         OK
+WTAP-000   UNKNOWN                                           2            2         OK
+WTAP-000   UNKNOWN                                           1          253         OK
+WTAP-000   UNKNOWN                                           2        1,424         OK
+WTAP-000   UNKNOWN                                           2          305         OK
+WTAP-001   ETHERNET (p1)                                     4      220,243         OK
+WTAP-001   ETHERNET (p2)                                     1      129,329         OK
+WTAP-002   TOKEN_RING                                        2       33,332         OK
+WTAP-003   SLIP                                              4       40,430         OK
+WTAP-004   PPP                                               2       43,936         OK
+WTAP-006   FDDI_WITH_BIT-SWAPPED_MAC_ADDRESSES               2       38,835         OK
+WTAP-007   RAW_IP                                            1        1,266         OK
+WTAP-007   RAW_IP                                            2            6         OK
+WTAP-007   RAW_IP                                            4       61,858         OK
+WTAP-009   LINUX_ARCNET                                      2       38,874         OK
+WTAP-010   RFC_1483_ATM                                      4       39,642         OK
+WTAP-011   LINUX_ATM_CLIP                                    2            4         OK
+WTAP-011   LINUX_ATM_CLIP                                    4       41,450         OK
+WTAP-013   ATM_PDUS                                          2        1,066         OK
+WTAP-015   NULLLOOPBACK                                      2       40,116         OK
+WTAP-018   RFC_2625_IP-OVER-FIBRE_CHANNEL                    4       63,162         OK
+WTAP-019   PPP_WITH_DIRECTIONAL_INFO                         4       74,919         OK
+WTAP-020   IEEE_80211_WIRELESS_LAN                           4       32,868         OK
+WTAP-021   IEEE_80211_PLUS_PRISM_II_MONITOR_MODE_RADIO_HEADER     4       64,810         OK
+WTAP-023   IEEE_80211_PLUS_RADIOTAP_RADIO_HEADER             2       31,878         OK
+WTAP-024   IEEE_80211_PLUS_AVS_RADIO_HEADER                  2       23,686         OK
+WTAP-025   LINUX_COOKED-MODE_CAPTURE_V1                      4       87,920         OK
+WTAP-026   FRAME_RELAY                                       4       44,972         OK
+WTAP-028   CISCO_HDLC                                        2       37,460         OK
+WTAP-028   CISCO_HDLC                                        2            4         OK
+WTAP-029   CISCO_IOS_INTERNAL                                4       19,286         OK
+WTAP-030   LOCALTALK                                         4        3,310         OK
+WTAP-032   HIPATH_HDLC                                       4       28,783         OK
+WTAP-033   DATA_OVER_CABLE_SERVICE_INTERFACE_SPECIFICATION     4       56,709         OK
+WTAP-037   TAZMEN_SNIFFER_PROTOCOL                           4       39,668         OK
+WTAP-038   OPENBSD_ENC4_ENCAPSULATING_INTERFACE              4       38,672         OK
+WTAP-039   OPENBSD_PF_FIREWALL_LOGS                          4       39,856         OK
+WTAP-041   BLUETOOTH_H4                                      4       11,984         OK
+WTAP-042   SS7_MTP2                                          2       18,977         OK
+WTAP-043   SS7_MTP3                                          2       18,877         OK
+WTAP-044   IRDA                                              2            4         OK
+WTAP-045   USER_0                                            4       33,784         OK
+WTAP-046   USER_1                                            4       35,904         OK
+WTAP-047   USER_2                                            2       41,113         OK
+WTAP-048   USER_3                                            4       41,706         OK
+WTAP-049   USER_4                                            4       38,764         OK
+WTAP-050   USER_5                                            2            5         OK
+WTAP-051   USER_6                                            4           18         OK
+WTAP-052   USER_7                                            2            5         OK
+WTAP-053   USER_8                                            2            4         OK
+WTAP-054   USER_9                                            4          945         OK
+WTAP-055   USER_10                                           4          115         OK
+WTAP-056   USER_11                                           2            5         OK
+WTAP-057   USER_12                                           2            4         OK
+WTAP-058   USER_13                                           2            6         OK
+WTAP-059   USER_14                                           4       10,611         OK
+WTAP-060   USER_15                                           4       39,516         OK
+WTAP-061   SYMANTEC_ENTERPRISE_FIREWALL                      2       40,678         OK
+WTAP-063   BACNET_MSTP                                       4       11,921         OK
+WTAP-066   GPRS_LLC                                          4       26,450         OK
+WTAP-067   JUNIPER_ATM1                                      2       37,558         OK
+WTAP-068   JUNIPER_ATM2                                      2       37,751         OK
+WTAP-069   REDBACK_SMARTEDGE                                 2       41,191         OK
+WTAP-075   ENCAP_75                                          4          873         OK
+WTAP-076   JUNIPER_PPPOE                                     2          490         OK
+WTAP-077   GCOM_TIE1                                         2       34,990         OK
+WTAP-078   GCOM_SERIAL                                       2          144         OK
+WTAP-083   JUNIPER_ETHERNET                                  2       45,920         OK
+WTAP-084   JUNIPER_PPP                                       2       40,391         OK
+WTAP-085   JUNIPER_FRAME-RELAY                               2       31,134         OK
+WTAP-086   JUNIPER_C-HDLC                                    2       39,485         OK
+WTAP-087   JUNIPER_GGSN                                      2        9,081         OK
+WTAP-091   JUNIPER_VOICE_PIC                                 2          488         OK
+WTAP-092   USB_PACKETS_WITH_FREEBSD_HEADER                   1          671         OK
+WTAP-093   IEEE_80216_MAC_COMMON_PART_SUBLAYER               2            4         OK
+WTAP-095   USB_PACKETS_WITH_LINUX_HEADER                     3        2,606         OK
+WTAP-097   PER-PACKET_INFORMATION_HEADER                     4       78,078         OK
+WTAP-098   ENCAP_98                                          1            1         OK
+WTAP-099   ENCAP_99                                          4           90         OK
+WTAP-100   ENCAP_100                                         2           12         OK
+WTAP-101   SS7_SCCP                                          1        3,066         OK
+WTAP-103   INTELLIGENT_PLATFORM_MANAGEMENT_BUS_WITH_KONTRON_PSEUDO-HEADER     2       37,379         OK
+WTAP-104   IEEE_802154_WIRELESS_PAN                          4       38,812         OK
+WTAP-109   CONTROLLER_AREA_NETWORK_20B                       2          433         OK
+WTAP-111   X2E_SERIAL_LINE_CAPTURE                           2            4         OK
+WTAP-115   USB_PACKETS_WITH_LINUX_HEADER_AND_PADDING         2        3,399         OK
+WTAP-121   FIBRE_CHANNEL_FC-2                                2          254         OK
+WTAP-124   SOLARIS_IPNET                                     2          282         OK
+WTAP-125   SOCKETCAN                                         4           82         OK
+WTAP-127   IEEE_802154_WIRELESS_PAN_WITH_FCS_NOT_PRESENT     2       41,895         OK
+WTAP-129   RAW_IPV4                                          2       39,483         OK
+WTAP-130   RAW_IPV6                                          2       36,639         OK
+WTAP-131   LAPD                                              3        2,042         OK
+WTAP-138   ISOIEC_13818-1_MPEG2-TS                           1        8,073         OK
+WTAP-141   NFLOG                                             2       20,040         OK
+WTAP-146   D-BUS                                             2        1,742         OK
+WTAP-147   AX25_WITH_KISS_HEADER                             2        1,442         OK
+WTAP-149   SCTP                                              2       32,576         OK
+WTAP-151   JUNIPER_SERVICES                                  2           76         OK
+WTAP-152   USB_PACKETS_WITH_USBPCAP_HEADER                   1        3,244         OK
+WTAP-154   BLUETOOTH_LOW_ENERGY_LINK_LAYER                   2       14,025         OK
+WTAP-155   WIRESHARK_UPPER_PDU_EXPORT                        2       32,390         OK
+WTAP-158   LINUX_NETLINK                                     2       27,632         OK
+WTAP-174   OPENBSD_LOOPBACK                                  4       41,093         OK
+WTAP-175   JAVASCRIPT_OBJECT_NOTATION                      449            1         OK
+WTAP-178   ITU-T_G7041Y1303_GENERIC_FRAMING_PROCEDURE_TRANSPARENT_MODE     2          478         OK
+WTAP-179   ITU-T_G7041Y1303_GENERIC_FRAMING_PROCEDURE_FRAME-MAPPED_MODE     2       33,564         OK
+WTAP-181   JUNIPER_VN                                        2            4         OK
+WTAP-186   NRF_SNIFFER_FOR_BLUETOOTH_LE                      2          653         OK
+WTAP-197   JUNIPER_SECURE_TUNNEL_INFORMATION                 2          120         OK
+WTAP-206   IEEE_802154_WIRELESS_WITH_TAP_PSEUDO-HEADER       2       36,049         OK
+WTAP-208   USB_201110_PACKETS                                2          216         OK
+WTAP-210   LINUX_COOKED-MODE_CAPTURE_V2                      2       40,431         OK
+WTAP-211   Z-WAVE_SERIAL_API_PACKETS                         2            4         OK
+WTAP-212   EVENT_TRACING_FOR_WINDOWS_MESSAGES                2        4,755         OK
+WTAP-214   ZBOSS_NCP                                         2        1,521         OK
+WTAP-215   LOW-SPEED_USB_201110_PACKETS                      2          229         OK
+WTAP-216   FULL-SPEED_USB_201110_PACKETS                     2          213         OK
+WTAP-217   HIGH-SPEED_USB_20_PACKETS                         2          253         OK
+WTAP-219   AUERSWALD_LOG                                     2            4         OK
+WTAP-220   ATSC_LINK-LAYER_PROTOCOL_A330_PACKETS             2       39,154         OK
+WTAP-221   FIRA_UWB_CONTROLLER_INTERFACE_UCI_PROTOCOL        2        1,560         OK
+WTAP-222   SILABS_DEBUG_CHANNEL                              2        1,299         OK
+WTAP-223   MDB_MULTI-DROP_BUS                                2       36,788         OK
+==========================================================================================
+TOTAL                                                      881    3,163,318

@@ -1,0 +1,8 @@
+WTAP Encap ID: 100
+WTAP Encap Name: ENCAP_100
+DLT/Linktype: 196
+Packets: 12
+File Size: 2644 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: sita:data
+Encap Verified: OK

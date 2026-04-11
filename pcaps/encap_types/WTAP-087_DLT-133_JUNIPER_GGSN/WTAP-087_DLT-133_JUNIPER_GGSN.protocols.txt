@@ -1,0 +1,12 @@
+9013 juniper:data
+     26 juniper
+     19 juniper:mpls:data
+      7 juniper:mpls:pwethcw:eth:ethertype:data
+      5 juniper:osi:clnp:data
+      4 juniper:mpls
+      2 juniper:mpls:ipv6.hopopts
+      1 juniper:mpls:pwethcw:eth:llc
+      1 juniper:mpls:pwethcw:eth
+      1 juniper:llc:data
+      1 juniper:ip
+      1 juniper:fr:data

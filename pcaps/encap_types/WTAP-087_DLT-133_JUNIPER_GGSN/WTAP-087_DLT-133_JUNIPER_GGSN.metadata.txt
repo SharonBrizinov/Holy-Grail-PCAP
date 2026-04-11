@@ -1,0 +1,8 @@
+WTAP Encap ID: 87
+WTAP Encap Name: JUNIPER_GGSN
+DLT/Linktype: 133
+Packets: 9081
+File Size: 2248596 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:data
+Encap Verified: OK

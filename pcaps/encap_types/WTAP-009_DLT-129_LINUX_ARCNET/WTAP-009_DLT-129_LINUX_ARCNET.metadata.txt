@@ -1,0 +1,8 @@
+WTAP Encap ID: 9
+WTAP Encap Name: LINUX_ARCNET
+DLT/Linktype: 129
+Packets: 38874
+File Size: 3597596 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: arcnet:ip:udp:gtp:gtpv2
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 6
+WTAP Encap Name: FDDI_WITH_BIT-SWAPPED_MAC_ADDRESSES
+DLT/Linktype: 10
+Packets: 38835
+File Size: 24106348 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: fddi:llc:ip:icmp
+Encap Verified: OK

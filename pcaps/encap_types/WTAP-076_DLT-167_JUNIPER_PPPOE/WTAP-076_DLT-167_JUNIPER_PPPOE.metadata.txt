@@ -1,0 +1,8 @@
+WTAP Encap ID: 76
+WTAP Encap Name: JUNIPER_PPPOE
+DLT/Linktype: 167
+Packets: 490
+File Size: 58924 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:eth:llc:data
+Encap Verified: OK

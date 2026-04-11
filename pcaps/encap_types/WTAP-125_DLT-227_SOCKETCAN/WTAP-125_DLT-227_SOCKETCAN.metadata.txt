@@ -1,0 +1,8 @@
+WTAP Encap ID: 125
+WTAP Encap Name: SOCKETCAN
+DLT/Linktype: 227
+Packets: 82
+File Size: 4560 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: can
+Encap Verified: OK

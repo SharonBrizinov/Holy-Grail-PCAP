@@ -1,0 +1,8 @@
+WTAP Encap ID: 121
+WTAP Encap Name: FIBRE_CHANNEL_FC-2
+DLT/Linktype: 224
+Packets: 254
+File Size: 30140 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: fc:data
+Encap Verified: OK

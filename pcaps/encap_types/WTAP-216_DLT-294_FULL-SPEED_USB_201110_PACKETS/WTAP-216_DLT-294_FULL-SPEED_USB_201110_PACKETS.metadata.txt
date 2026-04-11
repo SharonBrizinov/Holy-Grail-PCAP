@@ -1,0 +1,8 @@
+WTAP Encap ID: 216
+WTAP Encap Name: FULL-SPEED_USB_201110_PACKETS
+DLT/Linktype: 294
+Packets: 213
+File Size: 9324 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usbll
+Encap Verified: OK

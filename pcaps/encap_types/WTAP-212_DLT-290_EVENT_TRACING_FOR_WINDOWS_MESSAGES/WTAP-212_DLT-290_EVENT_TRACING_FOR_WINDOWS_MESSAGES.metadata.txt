@@ -1,0 +1,8 @@
+WTAP Encap ID: 212
+WTAP Encap Name: EVENT_TRACING_FOR_WINDOWS_MESSAGES
+DLT/Linktype: 290
+Packets: 4755
+File Size: 2425084 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: etw:mbim
+Encap Verified: OK

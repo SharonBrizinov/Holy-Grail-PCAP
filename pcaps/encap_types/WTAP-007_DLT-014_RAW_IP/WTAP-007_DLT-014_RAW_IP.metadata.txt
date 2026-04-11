@@ -1,0 +1,8 @@
+WTAP Encap ID: 7
+WTAP Encap Name: RAW_IP
+DLT/Linktype: 14
+Packets: 6
+File Size: 640 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: raw:ip:data
+Encap Verified: OK

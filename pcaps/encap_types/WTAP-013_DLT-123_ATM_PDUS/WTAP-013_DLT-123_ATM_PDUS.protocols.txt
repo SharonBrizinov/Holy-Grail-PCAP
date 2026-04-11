@@ -1,0 +1,16 @@
+586 atm:eth:ethertype:data
+    328 atm:data
+    110 atm:eth:llc:data
+     10 atm:eth:ipx:data
+      7 atm:ip:data
+      7 atm:eth
+      4 atm:ip
+      4 atm:eth:llc
+      2 atm:eth:ipx
+      2 
+      1 atm:ppp:ip:data
+      1 atm:ip:ipv6
+      1 atm:eth:llc:osi:data
+      1 atm:eth:llc:data:vssmonitoring
+      1 atm:eth:llc:data:lda_neo_trailer
+      1 atm:eth:ethertype:lwapp:wlan

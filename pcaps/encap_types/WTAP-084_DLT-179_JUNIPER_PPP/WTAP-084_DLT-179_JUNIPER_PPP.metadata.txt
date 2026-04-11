@@ -1,0 +1,8 @@
+WTAP Encap ID: 84
+WTAP Encap Name: JUNIPER_PPP
+DLT/Linktype: 179
+Packets: 40391
+File Size: 3926788 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: juniper:ppp:data
+Encap Verified: OK

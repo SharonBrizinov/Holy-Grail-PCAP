@@ -1,0 +1,8 @@
+WTAP Encap ID: 146
+WTAP Encap Name: D-BUS
+DLT/Linktype: 231
+Packets: 1742
+File Size: 890408 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: dbus
+Encap Verified: OK

@@ -1,0 +1,8 @@
+WTAP Encap ID: 152
+WTAP Encap Name: USB_PACKETS_WITH_USBPCAP_HEADER
+DLT/Linktype: 249
+Packets: 3244
+File Size: 959544 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usb:at
+Encap Verified: OK

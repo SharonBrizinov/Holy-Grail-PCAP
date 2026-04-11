@@ -1,0 +1,8 @@
+WTAP Encap ID: 95
+WTAP Encap Name: USB_PACKETS_WITH_LINUX_HEADER
+DLT/Linktype: 189
+Packets: 2606
+File Size: 1191664 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: usb:thrift
+Encap Verified: OK

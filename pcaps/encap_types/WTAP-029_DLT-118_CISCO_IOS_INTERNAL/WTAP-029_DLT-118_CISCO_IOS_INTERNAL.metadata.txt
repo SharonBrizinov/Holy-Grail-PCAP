@@ -1,0 +1,8 @@
+WTAP Encap ID: 29
+WTAP Encap Name: CISCO_IOS_INTERNAL
+DLT/Linktype: 118
+Packets: 19286
+File Size: 1809812 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

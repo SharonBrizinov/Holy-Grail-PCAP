@@ -1,0 +1,8 @@
+WTAP Encap ID: 109
+WTAP Encap Name: CONTROLLER_AREA_NETWORK_20B
+DLT/Linktype: 190
+Packets: 433
+File Size: 195828 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: data
+Encap Verified: OK

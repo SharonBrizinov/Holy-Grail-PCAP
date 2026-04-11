@@ -1,0 +1,4 @@
+76 bluetooth:hci_h4:data
+      8 bluetooth:hci_h4
+      5 bluetooth:hci_h4:bthci_evt
+      1 bluetooth:hci_h4:bthci_cmd

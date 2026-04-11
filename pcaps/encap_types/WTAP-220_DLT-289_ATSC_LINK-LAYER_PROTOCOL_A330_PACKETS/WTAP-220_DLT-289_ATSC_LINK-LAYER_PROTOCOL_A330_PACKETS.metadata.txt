@@ -1,0 +1,8 @@
+WTAP Encap ID: 220
+WTAP Encap Name: ATSC_LINK-LAYER_PROTOCOL_A330_PACKETS
+DLT/Linktype: 289
+Packets: 39154
+File Size: 3931856 bytes
+Capture Duration: 0.000000000s
+First Packet Protocols: alp:ip:ax25:x25
+Encap Verified: OK
