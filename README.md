@@ -56,6 +56,21 @@ ls -lh pcaps/all_merged/ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng
 # Should show ~824M, not 130 bytes
 ```
 
+## Benchmark
+
+I ran this pcap through `tshark` (~v4.7.0, compiled with ASAN) using various flag combinations on an Apple M1 Max (32 GB RAM, 10 CPU cores). The results below make it clear that `-2` (two-pass analysis) is the dominant cost driver.
+
+| id | time (hours, minutes) | flags used |
+|----|----------------------|------------|
+| 1 | 0h 1m | `-n` |
+| 2 | 0h 1m | `-n -o ip.defragment:FALSE` |
+| 3 | 0h 14m | `-n -V` |
+| 4 | 0h 16m | `-n -o tcp.desegment_tcp_streams:FALSE -o ip.defragment:FALSE` |
+| 5 | 5h 6m | `-n -2 -z expert` |
+| 6 | 7h 15m | `-n -2 -o ip.defragment:FALSE -V -z expert` |
+| 7 | 11h 58m | `-n -2 -o tcp.desegment_tcp_streams:FALSE -o ip.defragment:FALSE -V -z expert` |
+
+
 ## How to Run
 
 Use `tshark` (Wireshark's command-line tool) to process the Holy Grail PCAP. Here are the most useful flags:
@@ -76,6 +91,10 @@ Use `tshark` (Wireshark's command-line tool) to process the Holy Grail PCAP. Her
 # Stress-test dissectors without reassembly (maximizes per-packet code coverage)
 tshark -n -r pcaps/all_merged/ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng \
   -o tcp.desegment_tcp_streams:FALSE \
+  -o ip.defragment:FALSE
+
+# Stress-test dissectors without defragment, verbose mode
+tshark -n -V -r pcaps/all_merged/ALL_ENCAPS_HOLY_GRAIL_PACP.pcapng \
   -o ip.defragment:FALSE
 
 # Full two-pass analysis with expert info (slower but more accurate)
