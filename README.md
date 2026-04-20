@@ -12,6 +12,15 @@ This project is the result of months of work to create the **"Holy Grail" PCAP**
 
 This pcap goes far beyond just Ethernet traffic. It covers **186 different link-layer types** including Bluetooth, USB, Wi-Fi (802.11), IEEE 802.15.4, CAN bus, DOCSIS, Frame Relay, ATM, PPP, FDDI, Token Ring, Linux Cooked Capture, and many more. Each link-layer type (also known as an encapsulation type) tells Wireshark how to interpret the raw bytes at the lowest level of a packet - before any IP, TCP, or application-layer parsing begins. Wireshark identifies these using internal WTAP numbers, which map to DLT (Data Link Type) values from libpcap. See [Understanding WTAP, ENCAP, and DLT](#understanding-wtap-encap-and-dlt) for more details.
 
+
+You can check the full coverage report [`here`](docs/dissector-coverage-report.html) (generated using [wirecov](https://github.com/SharonBrizinov/wirecov)):
+
+<p align="center">
+  <img src="docs/cov.png" alt="Coverage report" width="1000">
+</p>
+
+
+
 ## Stats
 
 | | |
