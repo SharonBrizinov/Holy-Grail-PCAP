@@ -25,9 +25,9 @@ You can check the full coverage report [`here`](docs/dissector-coverage-report.h
 
 | | |
 |---|---|
-| **Mega Merge Size** | 824 MB |
-| **Unique Protocol Stacks** | ~98,000 |
-| **Total Packets** | 3,163,318 |
+| **Mega Merge Size** | 867.5 MB |
+| **Unique Protocol Stacks** | ~98k |
+| **Total Packets** | ~3m |
 | **Encap Types** | 186 |
 
 ## Download

@@ -1,11 +1,11 @@
 ALL ENCAPS MEGA MERGE
-Generated: 2026-04-10 17:48:23 UTC
+Generated: 2026-04-21 17:48:23 UTC
 Method: mergecap -I all (multi-IDB single section pcapng)
 
-Mega Merge Packets (capinfos): 2,773,127
+Mega Merge Packets (capinfos): 2,796,563
 Mega Merge Interfaces: 290
 Mega Merge Encap Types: 115 (known, included in mega merge)
-File Size: 863,978,444 bytes (824.0 MB)
+File Size: 867.5 MB
 File Encapsulation: Per packet (multiple IDBs with different linktypes)
 
 NOT in mega merge (cannot be merged by mergecap):
