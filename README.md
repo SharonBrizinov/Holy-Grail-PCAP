@@ -30,6 +30,15 @@ You can check the full coverage report [`here`](docs/dissector-coverage-report.h
 | **Total Packets** | ~3m |
 | **Encap Types** | 186 |
 
+## Coverage (default, without any custom flags)
+
+| | |
+|---|---|
+| **Overall (default)** | ~63% |
+| **IP-based dissectors (default)** | ~85% |
+| **Activated dissectors (default)** | ~80% |
+
+
 ## Download
 
 | File | Description |
@@ -385,6 +394,14 @@ The Holy Grail PCAP contains **186 encapsulation types** organized into individu
 
 </details>
 
+## What's missing and How to improve coverage?
+The pcaps/packets in this project trigger the default ("plug-and-play") dissectors. If additional flags are given to Wireshark/tshark then more dissectors can be activated and reached.
+
+1. **Decode-As required (port-bound, non-default port)** : port-only dissectors do nothing if your sample isn't on the well-known port.
+2. **Preference-gated subprotocol selection** : same bytes, different parser depending on a pref.
+3. **Decryption-gated branches** : without keys, only handshake/framing parsers run; the inner dissectors are dead code for that pcap.
+4. **Disabled-by-default protocols** : Edit → Enabled Protocols ships with several off- they fire on no pcap until enabled.
+      
 ## License
 
 MIT
